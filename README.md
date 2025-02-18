@@ -12,7 +12,8 @@ Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, GitHub Actions
 Other Tools: Kafka, Power BI, Cypress, Jest
 
 
-**📫 Let's Connect!**
+## 📫 Let's Connect!
 
-📩 Email: priyaaa.int@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/priya-intwala-2110871b6/
+📩 **Email:** [priyaaa.int@gmail.com](mailto:priyaaa.int@gmail.com)  
+💼 **LinkedIn:** [Priya Intwala](https://www.linkedin.com/in/priya-intwala-2110871b6/)  
+📂 **GitHub:** [GitHub Profile](https://github.com/priyaintwala)
